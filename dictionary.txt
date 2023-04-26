@@ -1,0 +1,12 @@
+=======DICTIONARY=======
+WORD, TRANSLATION
+
+cat, кот
+hello, привет
+world, мир
+end, конец
+egg, яйцо
+black, черный
+game, игра
+phone, телефон
+apple, яблоко
